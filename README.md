@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mohamed Salman Al Farish
+# Hi 👋 I'm JOY SHERLY
 
 ## 🚀 About Me
 
@@ -31,8 +31,6 @@
 - Vercel
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
